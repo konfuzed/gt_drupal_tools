@@ -1,5 +1,6 @@
 {
-    "name": "gtsciences/gt_tools",
-    "description": "Provides the gt_tools module, modified.",
-    "type": "drupal-custom-module"
+  "name": "gtsciences/gt_tools",
+  "description": "Provides the gt_tools module, modified.",
+  "type": "drupal-custom-module",
+  "license": "GPL-2.0-or-later"
 }
