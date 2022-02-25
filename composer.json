@@ -1,5 +1,5 @@
 {
-    "name": "gt/gt_tools",
-    "description": "Provides the gt_tools module, duh.",
-    "type": "drupal-module"
+    "name": "gtsciences/gt_tools",
+    "description": "Provides the gt_tools module, modified.",
+    "type": "drupal-custom-module"
 }
